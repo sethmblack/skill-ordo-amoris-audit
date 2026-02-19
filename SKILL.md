@@ -3,8 +3,9 @@ name: ordo-amoris-audit
 description: Examine any decision, system, or organization to identify disordered loves - where lesser things are being loved more than greater, or ends are being confused with means - following Augustine's fra...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4616
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ordo-amoris-audit
 - transformation
